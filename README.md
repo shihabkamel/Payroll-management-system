@@ -153,6 +153,6 @@ For questions, suggestions, or support, feel free to reach out:
 
 - **Author**: Shihab Kamel
 - **GitHub**: [shihabkamel](https://github.com/shihabkamel)
-- **Email**: shihabkamel@example.com
+- **Email**: shihabkamel@gmail.com
 
 Thank you for exploring the Payroll Management System! 🌟
